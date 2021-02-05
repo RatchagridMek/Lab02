@@ -1,0 +1,11 @@
+
+img:hover {
+    background-color: rgb(49, 128, 247);
+    transform: scale(1.1);
+    filter: blur(0px);
+    transition: .7s ease;
+    }
+
+img{
+    filter: blur(0px);
+}
